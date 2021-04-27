@@ -16,8 +16,11 @@ Unfortunately, it doesn't support macOS yet. ~~Because I don't have a mac...😥
 * "./tool" folder (Cnvtpipl.exe, ZXPSignCmd.exe - for release)
 * "./cert" folder (cert.p12) - for release
 * "./sdk" folder ([PhotoShop SDK](https://console.adobe.io/downloads/ps))
+  
   pluginsdk/samplecode/common -> sdk/common
+  
   pluginsdk/photoshopapi/photoshop -> sdk/photoshop
+  
   pluginsdk/photoshopapi/pica_sp -> sdk/pica_sp
 
 ## Referance
