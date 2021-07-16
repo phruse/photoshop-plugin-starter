@@ -18,9 +18,7 @@ _deps
 
 /bin/
 /build/
-/cmake/
-/cmake-build-release/
-/cmake-build-debug/
+/cmake*/
 
 ### CLion
 
