@@ -7,7 +7,7 @@ If you need code signing, modify the POST_BUILD part.
 
 [More information.](https://phruse.com/pat1/)
 
-Now, This Starter supports Windows and macOS(Apple Silicon does not test it yet).
+Now, This Starter supports Windows and macOS and has no code use conditions (Unlicense).
 
 ## Required
 ### Required CMake argument
